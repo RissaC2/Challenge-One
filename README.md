@@ -1,10 +1,43 @@
 # Challenge-One
-First Challenge to creata a more accessible website for a marketing company. 
-My moivation was to use the skills I have been learning to attempt this. I am happy that it can be checked and I will have another chance to get it perfect with some assistance. 
+First Challenge to create a more accessible website for a marketing company. 
 
-C:\Users\clari\Downloads\127.0.0.1_5500_Challenge-One_index.html (2).png
+
+
+# Credits
+
+https://www.w3schools.com/default.asp
+
+https://stackoverflow.com/
+
+
+
+
+
+## Screenshot
+
+
+## License
+
+MIT License
+
+Copyright (c) [2023] [Clarissa Cole]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 # Completion
-http://127.0.0.1:5500/Challenge-One/index.html, 
-https://rissac2.github.io/Challenge-One/
-https://github.com/RissaC2/Challenge-One
